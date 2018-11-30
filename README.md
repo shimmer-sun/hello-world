@@ -1,2 +1,2 @@
 # hello-world
-just a pactice
+just a practice
